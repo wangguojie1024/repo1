@@ -2,5 +2,6 @@
 2.在github中添加公钥
 3.使用命令行git remote add origin git@github.com:wangguojie1024/repo1.git 与远程仓库创建连接
 4.使用命令行将本地仓库内容推送到远程仓库  push -u origin master
-
 5.还可以使用https 协议  使用是 github的用户名和密码
+6.推送,将本地服务器更改的内容推送的服务器,拉去,将服务器的更改,下载下来。
+7.当本地仓库中的文件不是远程仓库中最新的版本时,会发生冲突。要解决冲突
