@@ -1,0 +1,6 @@
+1.ssh-keygen -t rsa 生成密钥对,  C盘,用户下生成.ssh 没有后缀的是私钥,有后缀的是公钥
+2.在github中添加公钥
+3.使用命令行git remote add origin git@github.com:wangguojie1024/repo1.git 与远程仓库创建连接
+4.使用命令行将本地仓库内容推送到远程仓库  push -u origin master
+
+5.还可以使用https 协议  使用是 github的用户名和密码
